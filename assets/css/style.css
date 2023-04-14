@@ -45,6 +45,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+a:hover {
+    color: blue;
+}
 
 p {
     font-size: 16px;
