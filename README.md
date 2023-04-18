@@ -2,7 +2,7 @@
 
 ## Description 
 
-    This website has been altered by the system via html and css, yet retains its original look and is more applicable than the original as some links were not fully implemented. 
+This website has been altered by the system via html and css, yet retains its original look and is more applicable than the original as some links were not fully implemented. 
 
 ## Badges
 
@@ -24,7 +24,7 @@ For any questions, please refer to dong135790@gmail.com
 
 ## Roadmap
 
-Change size orientation based on which device is used so the web application will be visually appealing regardless of screen size or choice of technology to view the webpage. 
+Implement javascript to make the web more interactable. 
 ## Contributing
 
 Not currently open to contributions at this time.
