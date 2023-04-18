@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Changed from class to element also changed div to nav in accordance to html */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -45,6 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Added a hover option for web */
 a:hover {
     color: grey;
 }
@@ -190,7 +191,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Changed class .footer to element  */
 footer {
     padding: 30px;
     clear: both;
