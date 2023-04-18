@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* For all headers, the class element is removed and  */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -190,6 +190,12 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+/* Image size change */
+.benefit-brand,
+.benefit-cost,
+.benefit-lead {
+
 }
 /* Changed class .footer to element  */
 footer {
