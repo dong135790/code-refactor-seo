@@ -2,7 +2,7 @@
 
 # Description 
 
-This website has been altered by the system via html and css, yet retains its original look and is more applicable than the original as some links were not fully implemented. 
+This website has been altered by the system via html and css, yet retains its original look and is more applicable than the original as some links were not fully implemented. The codebase follows accessibility standards so that this site is optimized for search engines.
 
 # Badges
 
@@ -42,3 +42,4 @@ NA
 # Project Status
 
 Complete
+https://dong135790.github.io/code-refactor-seo/
