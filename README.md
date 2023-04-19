@@ -10,6 +10,8 @@ NA
 
 ## Visuals
 
+![Alt text](assets/images/1st%20ss.png)
+![Alt text](assets/images/2nd%20ss.png)
 ## Installation
 
 NA 
