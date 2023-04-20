@@ -9,9 +9,7 @@ This website has been altered by the system via html and css, yet retains its or
 NA
 
 ## Visuals
-
-![Alt text](assets/images/1st%20ss.png)
-![Alt text](assets/images/2nd%20ss.png)
+![Screenshot](assets/images/127.0.0.1_5501_index.html.png)
 ## Installation
 
 NA 
