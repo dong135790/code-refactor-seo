@@ -40,6 +40,7 @@ NA
 ## Resources
 
 [Github Respository](https://github.com/dong135790/code-refactor-seo)
+
 [Deployed Site](https://dong135790.github.io/code-refactor-seo/)
 
 ## Project Status
