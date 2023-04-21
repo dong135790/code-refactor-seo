@@ -1,4 +1,4 @@
-# code-refactor-seo
+# Code Refactor Seo Web Update
 
 ## Description 
 
@@ -18,9 +18,6 @@ NA
 Provides an interactive webpage based on the company Horiseon.
 
 Clicking on any of the three options on the navbar will redirect the user to a new position within the page.
-## Support
-
-For any questions, please refer to dong135790@gmail.com
 
 ## Roadmap
 
